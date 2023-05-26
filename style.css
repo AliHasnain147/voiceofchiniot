@@ -59,7 +59,7 @@ h3:hover a,
 h4:hover a,
 h5:hover a,
 h6:hover a {
-    text-decoration: underline !important;
+    <a href="index.html"><img src="./images/logo/logo.png" alt="" class="img-fluid"></a>oration: underline !important;
     color: #111111 !important;
 }
 
@@ -115,7 +115,7 @@ p {
 }
 
 a {
-    text-decoration: none !important;
+    <a href="index.html"><img src="./images/logo/logo.png" alt="" class="img-fluid"></a>oration: none !important;
 }
 
 .blockquote {
